@@ -1,0 +1,54 @@
+@font-face {
+    font-family: Monaco; /* Гарнитура шрифта */
+    src: local(monaco), url(monaco.ttf);
+}
+
+html,body{
+    height: 100%;
+    text-align: justify;
+    background-color: black;
+    color: white;
+    font-size: large;
+    padding-top: 10px;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-size: 11pt;
+}
+
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    margin:0 auto;
+}
+
+.el {
+    width: 40%;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+.green {
+    color: #00c200;
+}
+
+.yellow {
+    color: #fffc67;
+}
+
+.el-big{
+    width: 75%;
+}
+
+.el-small {
+    width: 25%;
+}
+
+.el-100 {
+    width: 100%;
+}
+
+.el:nth-child(3n+1) {
+}
+
+.el:nth-child(3n+2) {
+}
