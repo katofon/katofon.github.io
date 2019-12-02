@@ -19,6 +19,7 @@ html,body{
     flex-wrap: wrap;
     width: 70%;
     margin:0 auto;
+    overflow: hiddenж
 }
 
 .el {
@@ -45,10 +46,4 @@ html,body{
 
 .el-100 {
     width: 100%;
-}
-
-.el:nth-child(3n+1) {
-}
-
-.el:nth-child(3n+2) {
 }
