@@ -89,6 +89,11 @@ const data = [
         "<b>Ivanovo State Textile Academy</b></br>" +
         "Advanced training in in-depth study of the</br> American version of English</br>"
     ],
+    [
+        "2019, 3 months",
+        "<b>Tinkoff fintech school</b></br>" +
+        "Java to Scala</br>"
+    ],
     "##breaker##",
     "<b class='green'>FOREIGN LANGUAGES</b>",
     "English – intermediate.",
