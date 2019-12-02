@@ -5,36 +5,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="stylesheet" href="style.css">
 
+    <script src="script.js"></script>
     <script src="data.js"></script>
-    <script type="text/javascript">
-        document.addEventListener("DOMContentLoaded", function(event) {
-            var content = document.getElementById("content");
 
-            data.forEach(function(item, i, data) {
-                if (Array.isArray(item)) {
-                    addDiv(item[0], ' el el-small');
-                    addDiv(item[1], 'el el-big');
-                } else {
-                    addDiv(item, 'el el-100');
-                }
-            });
-        });
-
-        function addDiv(item, cl) {
-            var div = document.createElement("div");
-            div.setAttribute('class', cl);
-            if (item == "##breaker##")
-                item = "#########################################################################################"
-                div.innerHTML += item + "</br>";
-            content.appendChild(div);
-        }
-    </script>
 </head>
 <body>
-
-<div id="content">
-
-</div>
- 
+    <div id="content">
+    </div>
 </body>
 </html>
