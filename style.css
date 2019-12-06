@@ -32,11 +32,10 @@ html {
 }
 
 a {
-    color: #FF0000;
     font-size: 15px;
     font-weight:bold;
     text-decoration: none;
-    background: #FF0000;
+    background: #FFFFFF;
     color: #000000;
 }
 
