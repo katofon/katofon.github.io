@@ -19,7 +19,7 @@ const data = [
         "<b class='yellow'>07.2007 – 06.2010</b>",
         "<b class='yellow'>Сenter of new information technologies</b>, <br>" +
         "Ivanovo State Textile Academy<br>" +
-        "technician, engineer since 2008<br>" +
+        "Technician, engineer since 2008<br>" +
         "<ul>" +
         "<li>Web site support<br>" +
         "<li>Developing web site  «Virtual museum»<br>" +
@@ -55,8 +55,9 @@ const data = [
     [
         "<b class='yellow'>07.2018 - present</b>",
         "<b class='yellow'>Rambler Group</b>, Moscow</br>" +
-        "Ruby developer, videoplatform, backend</br>" +
-        "Videoplatform – is a service for uploading video by owners of other web resources with a big traffic (Rambler.ru, Lenta.ru, Afisha.ru, Letidor.ru, Eda.ru).</br>" +
+        "Ruby, Java developer, videoplatform, backend</br></br>" +
+        "Videoplatform – is a service for uploading video by</br>" +
+        "owners of other web resources with a big traffic (Rambler.ru, Lenta.ru, Afisha.ru, Letidor.ru, Eda.ru, Championat.com).</br></br>" +
         "Stack: Ruby, Postgres, Redis, Clickhouse, Docker, Java, Kafka, microservices</b></br>" +
         "<ul>" +
         "   <li>Developing, support and refactoring platform (11 micro-services)</br>" +
@@ -77,7 +78,7 @@ const data = [
     "##breaker##",
     "<b class='green'>EDUCATION</b>",
     [
-        "2005 – 2010",
+        "<b class='yellow'>2005 – 2010</b>",
         "<b>Ivanovo State Textile Academy</b></br>" +
         "Information technology in design</br>" +
         "Honours degree</br>"
@@ -85,12 +86,12 @@ const data = [
     "##breaker##",
     "<b class='green'>COURSES AND TRAININGS</b>",
     [
-        "2007-2010",
+        "<b class='yellow'>2007-2010</b>",
         "<b>Ivanovo State Textile Academy</b></br>" +
         "Advanced training in in-depth study of the</br> American version of English</br>"
     ],
     [
-        "2019, 3 months",
+        "<b class='yellow'>2019, 3 months</b>",
         "<b>Tinkoff fintech school</b></br>" +
         "Java to Scala</br>"
     ],

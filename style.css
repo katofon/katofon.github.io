@@ -1,35 +1,43 @@
 @font-face {
-    font-family: Monaco; /* Гарнитура шрифта */
+    font-family: Monaco;
     src: local(monaco), url(monaco.ttf);
 }
 
-html,body{
+html {
     height: 100%;
     text-align: justify;
     background-color: black;
     color: white;
     font-size: large;
     padding-top: 10px;
-    //font-family: Monaco, Consolas, "Lucida Console", monospace;
-    font-size: 11pt;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-size: 16px;
 }
 
 #content{
     display: flex;
     flex-wrap: wrap;
-    width: 70%;
+    width: 60%;
     margin:0 auto;
     overflow: hidden;
 }
 
-.el {
-    width: 40%;
-    flex-grow: 0;
-    flex-shrink: 0;
-}
-
 .green {
     color: #00c200;
+}
+
+#pdf_container {
+    width: 100%;
+    text-align: right;
+}
+
+a {
+    color: #FF0000;
+    font-size: 15px;
+    font-weight:bold;
+    text-decoration: none;
+    background: #FF0000;
+    color: #000000;
 }
 
 .yellow {
@@ -46,4 +54,8 @@ html,body{
 
 .el-100 {
     width: 100%;
+}
+
+.el b {
+    font-size: 16px;
 }
