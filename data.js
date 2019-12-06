@@ -71,7 +71,7 @@ const data = [
         "   <li>Integration with youtube (autentification, upload video)</br>" +
         "   <li>Integration Redis sentinel</br>" +
         "   <li>Rspec</br>" +
-        "   <li>Moving project to java language</br>" +
+        "   <li>Moving project to Java</br>" +
         "   <li>Creating counting traffic service" +
         "</ul>"
     ],
