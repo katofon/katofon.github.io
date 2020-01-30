@@ -18,7 +18,7 @@ const data = [
     [
         "<b class='yellow'>07.2007 – 06.2010</b>",
         "<b class='yellow'>Сenter of new information technologies</b>, <br>" +
-        "Ivanovo State Textile Academy<br>" +
+        "Ivanovo State Polytechnic University<br>" +
         "Technician, engineer since 2008<br>" +
         "<ul>" +
         "<li>Web site support<br>" +
@@ -72,14 +72,14 @@ const data = [
         "   <li>Integration Redis sentinel</br>" +
         "   <li>Rspec</br>" +
         "   <li>Moving project to Java</br>" +
-        "   <li>Creating counting traffic service" +
+        "   <li>Statistics service (Java)" +
         "</ul>"
     ],
     "##breaker##",
     "<b class='green'>EDUCATION</b>",
     [
         "<b class='yellow'>2005 – 2010</b>",
-        "<b>Ivanovo State Textile Academy</b></br>" +
+        "<b>Ivanovo State Polytechnic University</b></br>" +
         "Information technology in design</br>" +
         "Honours degree</br>"
     ],
@@ -87,7 +87,7 @@ const data = [
     "<b class='green'>COURSES AND TRAININGS</b>",
     [
         "<b class='yellow'>2007-2010</b>",
-        "<b>Ivanovo State Textile Academy</b></br>" +
+        "<b>Ivanovo State Polytechnic University</b></br>" +
         "Advanced training in in-depth study of the</br> American version of English</br>"
     ],
     [
